@@ -1,3 +1,7 @@
+RT1 Assignment1
+================================
+The goal for this project was to make the robot collect all the boxes and stack them together in the center.
+
 Python Robotics Simulator
 ================================
 
@@ -20,25 +24,6 @@ On Ubuntu, this can be accomplished by:
 * Get the location. In my case this was `/usr/local/lib/python2.7/dist-packages`
 * Create symlink: `ln -s path/to/simulator/sr/robot /usr/local/lib/python2.7/dist-packages/sr/`
 
-## Exercise
------------------------------
-
-To run one or more scripts in the simulator, use `run.py`, passing it the file names. 
-
-I am proposing you three exercises, with an increasing level of difficulty.
-The instruction for the three exercises can be found inside the .py files (exercise1.py, exercise2.py, exercise3.py).
-
-When done, you can run the program with:
-
-```bash
-$ python run.py exercise1.py
-```
-
-You have also the solutions of the exercises (folder solutions)
-
-```bash
-$ python run.py solutions/exercise1_solution.py
-```
 
 Robot API
 ---------
@@ -103,3 +88,70 @@ for m in markers:
 ```
 
 [sr-api]: https://studentrobotics.org/docs/programming/sr/
+
+
+Flowchart
+================================
+![RT1_A1_FlowChart](https://github.com/tanvirrsajal/RT1_Assignment1/assets/148011962/3b9e1e5d-f2f1-44ca-9847-999364b8411d)
+
+
+
+Description:
+================================
+
+To make the robbot grab and put all the boxes together we defined a few functions to find the box, to grab the box, to realease the box, to find the drop location. A list is also created in order to store the information of the boxes it has already grabbed so that it doesn't grab the same box again and for finding the drop location. The funtions we defined are given below.
+
+Drive
+-----------------------------
+With this function the robot can go forward and also backward if the value is negative. To drive the robot it is needed to give the a speed and declare a span of time(for how long the robot will drive in secods).
+
+Turn
+-----------------------------
+With this function the robot can move left or right. To make it work same speed is given to both the wheels of the robot but in opposite signs. With the speed we also need to give the value for the time (in seconds).
+
+FindBox
+-----------------------------
+This function searches for the nearest box. The robot uses R.see() attribiute to look for the boxes. If the robot can not find any box, it returns -1 for all the parameters. It only searches for boxes that are not in the GrabbedBox list.
+
+GrabBox
+-----------------------------
+This function grabs the box when it is within reach of the robot's grabber. It uses the attribiute R.grab() to grab the box. The robot uses a_th and d_th to determine the distance and the angle between itself and the box. It adjusts the angle or distance accordingly with respect to the box.
+
+FindDropLocation
+-----------------------------
+This function searches for the robot to find the nearest box it has previously dropped. The robot uses R.see() attribiute to look for the boxes that it has previously dropped. If the robot can not find any box, it returns -1 for all the parameters. It searches for boxes that are in the GrabbedBox list.
+
+
+ReleaseBox
+-----------------------------
+This function releases the box when the robot reaches the desired location. It uses the attribiute R.release() to release the box. The robot uses a_th and d_th to determine the distance and the angle between itself and the nearest box it has previously grabbed. It adjusts the angle or distance accordingly with respect to that box.
+
+Giving instruction to the robot to do the task
+-----------------------------
+After defining the functions we make the robot search for boxes. When the robot finds the box it will grab the box using GrabBox() and R.grab(). Then we will make the robot go towards the center of the window. Then the robot releases the box using ReleaseBox() and R.release(). After releasing the box the robot turns and goes a little behind to avoid colliding with the box it has just dropped. The information of the dropped box is stored after releasing the box. Then a loop is created for the rest of the boxes. The process is the same, it will search for boxes, grab the box, find a drop location (it will search for the nearest box it has previously dropped), then release the box at the drop location and finally store the information of the dropped box in the GrabbedBox list. The loop will continue until the robot releases all the boxes.
+
+
+
+Run the program
+================================
+
+To run the program the following command should be given.
+
+```bash
+$ python run.py assignment.py
+```
+
+
+Initial and Final Phase
+================================
+
+
+![Screenshot 2023-11-16 213615](https://github.com/tanvirrsajal/RT1_Assignment1/assets/148011962/8922324e-ec8e-44d3-aac2-69898ba67f73)
+
+Initial Phase
+
+
+![Screenshot 2023-11-16 214024](https://github.com/tanvirrsajal/RT1_Assignment1/assets/148011962/13dc43d6-34fd-44a7-a091-1138770f7e24)
+
+
+Final Phase
