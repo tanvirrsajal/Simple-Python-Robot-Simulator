@@ -101,29 +101,29 @@ Description:
 
 To make the robbot grab and put all the boxes together we defined a few functions to find the box, to grab the box, to realease the box, to find the drop location. A list is also created in order to store the information of the boxes it has already grabbed so that it doesn't grab the same box again and for finding the drop location. The funtions we defined are given below.
 
-Drive
------------------------------
+<h3><ins>Drive</ins></h3>
+
 With this function the robot can go forward and also backward if the value is negative. To drive the robot it is needed to give the a speed and declare a span of time(for how long the robot will drive in secods).
 
-Turn
------------------------------
+<h3><ins>Turn</ins></h3>
+
 With this function the robot can move left or right. To make it work same speed is given to both the wheels of the robot but in opposite signs. With the speed we also need to give the value for the time (in seconds).
 
-FindBox
------------------------------
+<h3><ins>FindBox</ins></h3>
+
 This function searches for the nearest box. The robot uses R.see() attribiute to look for the boxes. If the robot can not find any box, it returns -1 for all the parameters. It only searches for boxes that are not in the GrabbedBox list.
 
-GrabBox
------------------------------
+<h3><ins>GrabBox</ins></h3>
+
 This function grabs the box when it is within reach of the robot's grabber. It uses the attribiute R.grab() to grab the box. The robot uses a_th and d_th to determine the distance and the angle between itself and the box. It adjusts the angle or distance accordingly with respect to the box.
 
-FindDropLocation
------------------------------
+<h3><ins>FindDropLocation</ins></h3>
+
 This function searches for the robot to find the nearest box it has previously dropped. The robot uses R.see() attribiute to look for the boxes that it has previously dropped. If the robot can not find any box, it returns -1 for all the parameters. It searches for boxes that are in the GrabbedBox list.
 
 
-ReleaseBox
------------------------------
+<h3><ins>ReleaseBox</ins></h3>
+
 This function releases the box when the robot reaches the desired location. It uses the attribiute R.release() to release the box. The robot uses a_th and d_th to determine the distance and the angle between itself and the nearest box it has previously grabbed. It adjusts the angle or distance accordingly with respect to that box.
 
 Giving instruction to the robot to do the task
