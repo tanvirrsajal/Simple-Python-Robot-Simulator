@@ -142,7 +142,7 @@ $ python run.py assignment.py
 ```
 
 
-Initial and Final Phase
+Result
 ================================
 
 
