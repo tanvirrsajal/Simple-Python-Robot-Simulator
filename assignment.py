@@ -132,7 +132,6 @@ turn(20, .5)
 GrabbedBox.append(Info)  # The Information of the box that was just dropped is added to the GrabbedBox list
 
 
-
 while len(GrabbedBox) < 6:   #A loop is created to grab and drop all the box
 
     Bdist, Brot_y, BInfo = FindBox()
