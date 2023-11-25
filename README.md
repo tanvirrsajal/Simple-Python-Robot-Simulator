@@ -124,7 +124,7 @@ This function searches for the robot to find the nearest box it has previously d
 
 <h3><ins>ReleaseBox</ins></h3>
 
-This function releases the box it is holding when the robot reaches the desired location. It uses the attribiute R.release() to release the box. The robot uses a_th and d_th to determine the distance and the angle between itself and the nearest box it has previously grabbed. It adjusts the angle or distance accordingly with respect to that box.
+This function releases the box it is holding when the robot reaches the desired location. It uses the attribiute R.release() to release the box. The robot uses a_th and d_th to determine the distance and the angle between itself and the nearest box it has previously grabbed. It adjusts the angle or distance accordingly with respect to that box. A small threshold value is added so that the robot does not push away the previously dropped box.
 
 Giving instruction to the robot to do the task
 -----------------------------
@@ -145,6 +145,7 @@ $ python run.py assignment.py
 Outcome
 ================================
 
+The robot could successfully pickup all the boxes and put them together in the center.
 
 ![Screenshot 2023-11-16 213615](https://github.com/tanvirrsajal/RT1_Assignment1/assets/148011962/8922324e-ec8e-44d3-aac2-69898ba67f73)
 
