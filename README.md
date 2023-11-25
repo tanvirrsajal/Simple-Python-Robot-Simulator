@@ -145,7 +145,7 @@ $ python run.py assignment.py
 Outcome
 ================================
 
-The robot could successfully pickup all the boxes and put them together in the center.
+The robot can successfully pickup all the boxes and put them together in the center.
 
 ![Screenshot 2023-11-16 213615](https://github.com/tanvirrsajal/RT1_Assignment1/assets/148011962/8922324e-ec8e-44d3-aac2-69898ba67f73)
 
