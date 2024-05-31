@@ -1,0 +1,302 @@
+Number of boxes:8
+Time for finding box:0.000143051147461
+Time to deliver box:6.7663500309
+Time for finding box:0.000211000442505
+Time to deliver box:10.1399719715
+Time for finding box:0.000111103057861
+Time to deliver box:7.02123498917
+Time for finding box:3.00811481476
+Time to deliver box:9.34014582634
+Time for finding box:3.00733613968
+Time to deliver box:11.5249660015
+Time for finding box:3.0058619976
+Time to deliver box:10.1427669525
+Time for finding box:3.50615596771
+Time to deliver box:6.66945385933
+execution time:138.485058069
+Number of boxes:8
+Time for finding box:0.000354051589966
+Time to deliver box:7.22456908226
+Time for finding box:0.000148057937622
+Time to deliver box:9.88420391083
+Time for finding box:0.000277996063232
+Time to deliver box:6.92233395576
+Time for finding box:3.00579309464
+Time to deliver box:8.79021310806
+Time for finding box:3.00743699074
+Time to deliver box:9.36176395416
+Time for finding box:3.01440000534
+Time to deliver box:9.76794886589
+Time for finding box:3.51287317276
+Time to deliver box:7.48484897614
+execution time:136.834216118
+Number of boxes:8
+Time for finding box:0.000349044799805
+Time to deliver box:6.36734700203
+Time for finding box:0.000118017196655
+Time to deliver box:9.0801410675
+Time for finding box:9.51290130615e-05
+Time to deliver box:6.42336297035
+Time for finding box:3.00583195686
+Time to deliver box:7.33145809174
+Time for finding box:3.00691008568
+Time to deliver box:9.08625984192
+Time for finding box:3.0126721859
+Time to deliver box:10.3011071682
+Time for finding box:3.50801086426
+Time to deliver box:6.83253502846
+execution time:131.029659986
+Number of boxes:8
+Time for finding box:0.000982999801636
+Time to deliver box:6.97166705132
+Time for finding box:0.000124931335449
+Time to deliver box:9.43177199364
+Time for finding box:0.000275135040283
+Time to deliver box:6.9194521904
+Time for finding box:3.00620293617
+Time to deliver box:8.1265001297
+Time for finding box:3.00507521629
+Time to deliver box:8.8900308609
+Time for finding box:3.00600099564
+Time to deliver box:10.2986140251
+Time for finding box:3.51484489441
+Time to deliver box:6.42319297791
+execution time:132.055429935
+Number of boxes:8
+Time for finding box:0.000107049942017
+Time to deliver box:6.77261090279
+Time for finding box:0.000116109848022
+Time to deliver box:9.88769102097
+Time for finding box:0.000334024429321
+Time to deliver box:6.92551898956
+Time for finding box:3.51068615913
+Time to deliver box:8.12940096855
+Time for finding box:3.00853800774
+Time to deliver box:9.34741282463
+Time for finding box:3.00676703453
+Time to deliver box:13.0935180187
+Time for finding box:4.51097106934
+Time to deliver box:7.65422296524
+execution time:138.585179806
+Number of boxes:6
+Time for finding box:0.000184059143066
+Time to deliver box:7.42288708687
+Time for finding box:0.000110149383545
+Time to deliver box:7.92540311813
+Time for finding box:0.000128030776978
+Time to deliver box:7.97885084152
+Time for finding box:3.51121115685
+Time to deliver box:7.22536206245
+Time for finding box:4.51180386543
+Time to deliver box:7.39225292206
+execution time:94.5756309032
+Number of boxes:6
+Time for finding box:0.000396966934204
+Time to deliver box:7.88234114647
+Time for finding box:0.000917911529541
+Time to deliver box:9.29963207245
+Time for finding box:0.000227928161621
+Time to deliver box:7.73918199539
+Time for finding box:3.50836396217
+Time to deliver box:6.4272608757
+Time for finding box:4.51149201393
+Time to deliver box:6.56952810287
+execution time:96.785556078
+Number of boxes:6
+Time for finding box:0.000102996826172
+Time to deliver box:8.27785396576
+Time for finding box:0.0003821849823
+Time to deliver box:7.97733902931
+Time for finding box:0.000123023986816
+Time to deliver box:7.0192501545
+Time for finding box:3.5077021122
+Time to deliver box:7.47588014603
+Time for finding box:4.50758099556
+Time to deliver box:7.02964711189
+execution time:95.1509709358
+Number of boxes:6
+Time for finding box:0.000122785568237
+Time to deliver box:8.27664995193
+Time for finding box:0.000237941741943
+Time to deliver box:8.57952404022
+Time for finding box:0.000452995300293
+Time to deliver box:8.17732405663
+Time for finding box:4.01024603844
+Time to deliver box:6.77601885796
+Time for finding box:5.01452279091
+Time to deliver box:6.4329020977
+execution time:97.4290950298
+Number of boxes:6
+Time for finding box:0.000121116638184
+Time to deliver box:8.08333396912
+Time for finding box:0.000638961791992
+Time to deliver box:8.22897005081
+Time for finding box:0.000119924545288
+Time to deliver box:7.92532110214
+Time for finding box:3.50654792786
+Time to deliver box:6.819617033
+Time for finding box:4.50977492332
+Time to deliver box:7.22405195236
+execution time:97.1363461018
+Number of boxes:7
+Number of boxes:7
+Time for finding box:0.000102996826172
+Time to deliver box:6.97023701668
+Time for finding box:0.000569105148315
+Time to deliver box:7.73112893105
+Time for finding box:0.000469923019409
+Time to deliver box:9.0327899456
+Time for finding box:3.00941181183
+Time to deliver box:9.38229680061
+Time for finding box:3.00849890709
+Time to deliver box:8.03690814972
+Time for finding box:4.51134181023
+Time to deliver box:5.77754092216
+execution time:112.49811697
+Number of boxes:7
+Time for finding box:0.000113010406494
+Time to deliver box:6.76943588257
+Time for finding box:0.000313997268677
+Time to deliver box:7.92625999451
+Time for finding box:0.00011682510376
+Time to deliver box:8.83504986763
+Time for finding box:3.00606608391
+Time to deliver box:9.38917803764
+Time for finding box:3.00658011436
+Time to deliver box:7.8363969326
+Time for finding box:4.50982999802
+Time to deliver box:5.97380900383
+execution time:110.240386009
+Number of boxes:7
+Time for finding box:0.000140190124512
+Time to deliver box:7.17464590073
+Time for finding box:0.000205039978027
+Time to deliver box:6.1160030365
+Time for finding box:0.000871896743774
+Time to deliver box:9.73628091812
+Time for finding box:0.502366065979
+Time to deliver box:8.58290815353
+Time for finding box:3.00717687607
+Time to deliver box:9.18731093407
+Time for finding box:4.00778198242
+Time to deliver box:7.58511710167
+execution time:112.267564058
+Number of boxes:7
+Time for finding box:0.000391006469727
+Time to deliver box:6.21910309792
+Time for finding box:0.00025200843811
+Time to deliver box:7.57259702682
+Time for finding box:0.00032901763916
+Time to deliver box:8.73049712181
+Time for finding box:3.00412416458
+Time to deliver box:8.73614287376
+Time for finding box:3.00682091713
+Time to deliver box:9.76779007912
+Time for finding box:4.51573705673
+Time to deliver box:6.02472686768
+execution time:113.094116926
+Number of boxes:7
+Time for finding box:0.000742197036743
+Time to deliver box:7.83411002159
+Time for finding box:0.000117063522339
+Time to deliver box:7.57327198982
+Time for finding box:0.000133037567139
+Time to deliver box:9.12654805183
+Time for finding box:3.00656199455
+Time to deliver box:8.93222689629
+Time for finding box:3.00755381584
+Time to deliver box:8.28418707848
+Time for finding box:4.51385998726
+Time to deliver box:6.68830013275
+execution time:114.815063
+Number of boxes:5
+Number of boxes:5
+Time for finding box:2.50669384003
+Time to deliver box:9.27449178696
+Time for finding box:0.000100135803223
+Time to deliver box:6.92397618294
+Time for finding box:9.48905944824e-05
+Time to deliver box:6.9209959507
+Time for finding box:1.00580096245
+Time to deliver box:9.23391604424
+execution time:80.7348768711
+Number of boxes:5
+Time for finding box:2.50487613678
+Time to deliver box:9.58354902267
+Time for finding box:0.000488996505737
+Time to deliver box:6.47131085396
+Time for finding box:0.000372171401978
+Time to deliver box:7.1258430481
+Time for finding box:1.00316905975
+Time to deliver box:10.2875192165
+execution time:81.8154830933
+Number of boxes:5
+Time for finding box:2.50614404678
+Time to deliver box:9.48486995697
+Time for finding box:0.000329971313477
+Time to deliver box:6.32043719292
+Time for finding box:0.000288963317871
+Time to deliver box:6.92910504341
+Time for finding box:1.00192284584
+Time to deliver box:9.63516020775
+execution time:81.5729999542
+Number of boxes:5
+Time for finding box:0.00142192840576
+Time to deliver box:6.61596393585
+Time for finding box:0.000313997268677
+Time to deliver box:7.12138295174
+Time for finding box:0.000213861465454
+Time to deliver box:9.28621101379
+Time for finding box:3.50815010071
+Time to deliver box:7.77348208427
+execution time:80.3744277954
+Number of boxes:5
+Time for finding box:2.50592303276
+Time to deliver box:9.68314194679
+Time for finding box:0.000104188919067
+Time to deliver box:6.96825408936
+Time for finding box:0.000241041183472
+Time to deliver box:6.92675805092
+Time for finding box:1.00238800049
+Time to deliver box:9.63656592369
+execution time:82.7169749737
+Number of boxes:4
+Time for finding box:3.00625896454
+Time to deliver box:10.2273750305
+Time for finding box:4.00627398491
+Time to deliver box:7.57286405563
+Time for finding box:4.50698304176
+Time to deliver box:5.57168006897
+execution time:74.2911639214
+Number of boxes:4
+Time for finding box:3.00621199608
+Time to deliver box:10.1874558926
+Time for finding box:4.00946784019
+Time to deliver box:7.77826714516
+Time for finding box:4.50724887848
+Time to deliver box:5.66771888733
+execution time:73.8848009109
+Number of boxes:4
+Time for finding box:3.00644612312
+Time to deliver box:9.52637004852
+Time for finding box:4.00637102127
+Time to deliver box:7.97421598434
+Time for finding box:4.5083899498
+Time to deliver box:5.66917300224
+execution time:72.7980568409
+Number of boxes:4
+Time for finding box:3.00459694862
+Time to deliver box:9.62693309784
+Time for finding box:3.50659584999
+Time to deliver box:7.57613706589
+Time for finding box:4.50920200348
+Time to deliver box:5.36619710922
+execution time:71.8545949459
+Number of boxes:4
+Time for finding box:3.00848698616
+Time to deliver box:9.78302311897
+Time for finding box:4.01128005981
+Time to deliver box:7.57508301735
+Time for finding box:4.51215100288
+Time to deliver box:5.66345500946
+execution time:73.9216809273
