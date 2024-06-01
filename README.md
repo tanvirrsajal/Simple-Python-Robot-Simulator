@@ -1,3 +1,5 @@
+Update: The hypothesis(StatisticalAnalysis.pdf) of the comparison between my colleagues code and my code was uploaded in the repo. The new stats.py and analysis.py files were used to find the standard deviation, mean, Testing results.
+
 RT1 Assignment1
 ================================
 The goal for this project was to make the robot collect all the boxes and stack them together in the center.
